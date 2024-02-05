@@ -1,0 +1,29 @@
+.circle-connection-online{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    background-color: greenyellow;
+    border: 1px solid lightgray;
+}
+
+.circle-connection-offline{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    background-color: red;
+    border: 1px solid lightgray;
+}
+
+
+
+p{
+    font-size: .8rem;
+}
+
+body{
+    background-color: #EEEEEE;
+}
+
+header{
+    background-color: #222831;
+}
